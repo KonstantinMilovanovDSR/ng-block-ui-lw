@@ -6,7 +6,6 @@ settings.json
 *.tgz
 *.metadata.json
 
-/dist
 /bundles
 dev/bundles
 dev/node_modules

@@ -1,0 +1,70 @@
+{
+  "name": "ng-block-ui",
+  "version": "4.0.2",
+  "description": "Angular Block UI",
+  "main": "./lib/index.js",
+  "typings": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KonstantinMilovanovDSR/ng-block-ui-lw.git"
+  },
+  "keywords": [
+    "Angular",
+    "Loading",
+    "Block UI",
+    "Spinner"
+  ],
+  "author": "kuuurt13",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KonstantinMilovanovDSR/ng-block-ui-lw/issues"
+  },
+  "homepage": "https://github.com/KonstantinMilovanovDSR/ng-block-ui-lw#readme",
+  "peerDependencies": {
+    "@angular/common": "18.1.1",
+    "@angular/core": "18.1.1",
+    "@angular/platform-browser": "18.1.1",
+    "@angular/platform-browser-dynamic": "18.1.1",
+    "@angular/router": "18.1.1",
+    "rxjs": "7.8.1",
+    "zone.js": "0.14.7"
+  },
+  "module": "fesm2015/ng-block-ui.mjs",
+  "es2020": "fesm2020/ng-block-ui.mjs",
+  "esm2020": "esm2020/ng-block-ui.mjs",
+  "fesm2020": "fesm2020/ng-block-ui.mjs",
+  "fesm2015": "fesm2015/ng-block-ui.mjs",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2020": "./esm2020/ng-block-ui.mjs",
+      "es2020": "./fesm2020/ng-block-ui.mjs",
+      "es2015": "./fesm2015/ng-block-ui.mjs",
+      "node": "./fesm2015/ng-block-ui.mjs",
+      "default": "./fesm2020/ng-block-ui.mjs"
+    },
+    "./http": {
+      "types": "./http/index.d.ts",
+      "esm2020": "./esm2020/http/ng-block-ui-http.mjs",
+      "es2020": "./fesm2020/ng-block-ui-http.mjs",
+      "es2015": "./fesm2015/ng-block-ui-http.mjs",
+      "node": "./fesm2015/ng-block-ui-http.mjs",
+      "default": "./fesm2020/ng-block-ui-http.mjs"
+    },
+    "./router": {
+      "types": "./router/index.d.ts",
+      "esm2020": "./esm2020/router/ng-block-ui-router.mjs",
+      "es2020": "./fesm2020/ng-block-ui-router.mjs",
+      "es2015": "./fesm2015/ng-block-ui-router.mjs",
+      "node": "./fesm2015/ng-block-ui-router.mjs",
+      "default": "./fesm2020/ng-block-ui-router.mjs"
+    }
+  },
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
