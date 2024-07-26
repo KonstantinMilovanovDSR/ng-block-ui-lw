@@ -1,6 +1,6 @@
 {
   "name": "ng-block-ui",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "Angular Block UI",
   "main": "./lib/index.js",
   "typings": "./lib/index.d.ts",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kuuurt13/ng-block-ui.git"
+    "url": "git+https://github.com/KonstantinMilovanovDSR/ng-block-ui.git"
   },
   "keywords": [
     "Angular",
@@ -27,9 +27,9 @@
   "author": "kuuurt13",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kuuurt13/ng-block-ui/issues"
+    "url": "https://github.com/KonstantinMilovanovDSR/ng-block-ui/issues"
   },
-  "homepage": "https://github.com/kuuurt13/ng-block-ui#readme",
+  "homepage": "https://github.com/KonstantinMilovanovDSR/ng-block-ui#readme",
   "peerDependencies": {
     "@angular/common": "18.1.1",
     "@angular/core": "18.1.1",
