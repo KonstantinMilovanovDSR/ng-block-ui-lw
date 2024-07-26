@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KonstantinMilovanovDSR/ng-block-ui.git"
+    "url": "git+https://github.com/KonstantinMilovanovDSR/ng-block-ui-lw.git"
   },
   "keywords": [
     "Angular",
@@ -27,9 +27,9 @@
   "author": "kuuurt13",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KonstantinMilovanovDSR/ng-block-ui/issues"
+    "url": "https://github.com/KonstantinMilovanovDSR/ng-block-ui-lw/issues"
   },
-  "homepage": "https://github.com/KonstantinMilovanovDSR/ng-block-ui#readme",
+  "homepage": "https://github.com/KonstantinMilovanovDSR/ng-block-ui-lw#readme",
   "peerDependencies": {
     "@angular/common": "18.1.1",
     "@angular/core": "18.1.1",
